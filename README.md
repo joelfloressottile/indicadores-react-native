@@ -1,2 +1,2 @@
 # indicadores-react-native
-Indicadores chilenos en una app de React Native
+Indicadores económicos chilenos en una app hecha con React Native
